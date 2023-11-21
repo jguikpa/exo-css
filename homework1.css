@@ -1,0 +1,92 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.modif1{  
+    background:hsl(31, 77%, 52%);
+    height: 450px;
+ 
+ 
+  }
+
+
+  .modif2{  
+    background: hsl(184, 100%, 31%);
+    height: 450px;
+    
+ 
+ 
+  }
+
+  .modif3{ 
+    background:hsl(184, 100%, 22%);
+    height: 450px;
+
+  
+  }
+
+  
+
+  .modifall{
+
+display: flex;
+align-items: center; 
+justify-content: center;
+padding: 20px;
+
+width: 60%
+  }
+  p{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    color: white;
+    padding: 10px;
+  }
+  h2{
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+  }
+
+  .button{
+    display: flex;
+    padding-top: 60px;
+   
+
+
+  }
+  .sedan{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid white; border-radius: 30px;
+    cursor: pointer;
+
+  }
+  .suv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid white; border-radius: 30px;
+    cursor: pointer;
+   
+
+  }
+  .luxury{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid white; border-radius: 30px;
+    cursor: pointer;
+  }
